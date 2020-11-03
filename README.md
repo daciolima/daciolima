@@ -15,7 +15,7 @@
 ### Email and Social Networks
 <p>
   
-  <a href='mailto:alexandreslima@outlook.com'>
+  <a href='mailto:contato.dacio@gmail.com'>
    <img src="https://img.shields.io/badge/contato.dacio@gmail.com%20-%23E34F26.svg?&style=for-the-badge"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daciolima/" target="_blank">
