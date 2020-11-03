@@ -45,7 +45,7 @@
 
 
 
-
+<!--
 <details>
   <summary>📃 My Resume</summary>
 
@@ -54,11 +54,11 @@
 ## Education
 
 - 📖 **Sistemas para Internet**\
-📆 2015 - 2017\
-📍 **Universidade de João Pessoa - Unipê** - João Pessoa, Brazil
+📆 - 2015 - 2017\
+📍 - **Universidade de João Pessoa - Unipê** - João Pessoa, Brazil
 
 
-</details>
+</details>  -->
 
 <!--
 **daciolima/daciolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
