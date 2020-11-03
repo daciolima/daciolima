@@ -30,9 +30,9 @@ I am constantly learning in the world of programming, especially about people, w
 </p>
 
 
-<!-- <p align='center'>
-  
-</p> -->
+<p>
+  - U+1F4DA	 My gist: <a href="https://gist.github.com/daciolima" />
+</p> 
 
 ### Summary
 
