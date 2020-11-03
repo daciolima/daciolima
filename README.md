@@ -27,7 +27,7 @@
 </p>
 
   
-  <img src="https://img.shields.io/badge/Email: contato.dacio@gmail.com%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email: contato.dacio@gmail.com%20%E2%86%92.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
  
  
 
