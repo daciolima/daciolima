@@ -31,7 +31,7 @@ I am constantly learning in the world of programming, especially about people, w
 
 
 <p>
-  - U+1F4DA	 My gist: <a href="https://gist.github.com/daciolima" />
+  -  My gist: <a href="https://gist.github.com/daciolima">U+1F4DA</a>
 </p> 
 
 ### Summary
