@@ -7,6 +7,7 @@
    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
@@ -29,7 +30,7 @@
 </p>
 
 ### Contact Email
-📫 Email: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
+<img src="https://img.shields.io/badge/contato.dacio@gmail.com%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
  
 
 <!-- <p align='center'>
