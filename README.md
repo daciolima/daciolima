@@ -31,10 +31,10 @@
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p> -->
-
+### summary of commits
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima&layout=compact)](https://github.com/daciolima/github-readme-stats)
 
-
+<img align="right" src="https://img.shields.io/badge/MacOs-0078D6?logo=apple&logoColor=white" />
 <!-- <p align='center'>
   💻 My workspace specs<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
