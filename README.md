@@ -1,5 +1,6 @@
 
 # Hi friends! 👋  Welcome to my Github space.
+I am constantly learning in the world of programming. I love my family. With hobby I produce House Music.
 
 ### In focus.
 <p>
