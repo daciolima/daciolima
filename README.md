@@ -37,10 +37,11 @@
   <img src="https://img.shields.io/badge/intel-core%20i5%20-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
-
-### Summary of Commits
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima&layout=compact)](https://github.com/daciolima/github-readme-stats)
+<br/>
+### Summary
 <img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=white" width="450">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima&layout=compact)](https://github.com/daciolima/github-readme-stats)
+
 
 <!--
 ### Repository Import
