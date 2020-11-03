@@ -12,7 +12,7 @@
 </p>
 
 
-### Email and Social Networks
+### Contacts
 <p>
   
   <a href='mailto:contato.dacio@gmail.com'>
