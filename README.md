@@ -30,7 +30,7 @@
 <p>
   📫  <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
 </p>
--->
+
 
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=dark" width="350"></a>
