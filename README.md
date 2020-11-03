@@ -26,16 +26,16 @@ I am constantly learning in the world of programming, especially about people, w
   <a href="https://instagram.com/daciolimamusic" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
-  <a href="https://gist.github.com/daciolima" target="_blank">
-    <img src="https://img.shields.io/badge/Gist-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white" />        
-  </a>
   
 </p>
 
 
 ### Summary
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=daciolima" alt="daciolima" /></p>
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=daciolima" alt="daciolima" />
+   <img src="https://img.shields.io/badge/Gist-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+</p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima&layout=compact)](https://github.com/daciolima/github-readme-stats)-->
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=white" width="450" />
