@@ -26,9 +26,9 @@
  
 </p>
 
-  <a href="mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com">
-      <img src="https://img.shields.io/badge/Email%20-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-  </a>
+  
+  <img src="https://img.shields.io/badge/Email: contato.dacio@gmail.com.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+ 
  
 
 <p>
