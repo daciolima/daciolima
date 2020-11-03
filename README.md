@@ -1,12 +1,13 @@
 
 ## Hello friends, Welcome! 👋 
 
+### Languages and Frameworks in focus.
 <p>
    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-   <img src="https://img.shields.io/badge/html%20--%23239120.svg?&style=flat-square&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
@@ -17,19 +18,19 @@
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/daciolima/">
+  <a href="https://www.linkedin.com/in/daciolima/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/daciolimamusic">
+  <a href="https://instagram.com/daciolimamusic" target="blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="mailto:contato.dacio@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-  
-  
+ 
 </p>
+
+<p>
+  📫  <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
+</p>
+-->
 
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -49,22 +50,19 @@
   <summary>:zap: My workspace specs</summary>
 </details>-->
 <!--
-<p align='center'>
-  📫 How to reach me: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
-</p>
--->
+
 
 <details>
   <summary>📃 My Resume</summary>
 
-<!--
+
 
 ## Education
 
-- 📖 **Web Development**\
+- 📖 **Sistemas para Internet**\
 📆 2015 - 2017\
 📍 **Universidade de João Pessoa - Unipê** - João Pessoa, Brazil
-
+<!--
 **Operating Systems**
 
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
