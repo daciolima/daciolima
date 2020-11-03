@@ -31,9 +31,9 @@ I am constantly learning in the world of programming, especially about people, w
 
 
 ### Summary
-
+![](https://komarev.com/ghpvc/?username=daciolima&style=flat-square)
 <p align="left">
-   ![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile Views&style=style=flat-square)
+   ![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&style=style=flat-square)
    <img src="https://komarev.com/ghpvc/?username=daciolima" alt="daciolima" />
    <img src="https://img.shields.io/badge/Gist-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white" />        
 </p>
