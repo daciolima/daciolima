@@ -1,17 +1,18 @@
 
-#### Hello friends, Welcome! 👋 
+## Hello friends, Welcome! 👋 
 
 <p>
    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-   <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/html%20--%23239120.svg?&style=flat-square&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 
-<p align='center'>
+### Contacts
+<p>
   
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -47,13 +48,11 @@
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
-
+<!--
 <p align='center'>
   📫 How to reach me: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
-</p>
+-->
 
 <details>
   <summary>📃 My Resume</summary>
