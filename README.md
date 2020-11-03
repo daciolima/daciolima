@@ -11,7 +11,7 @@
 </p>
 
 
-### Contacts
+### Social Networks
 <p>
   
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
@@ -24,18 +24,13 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  📫 Email: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
+ 
  
 </p>
 
-  
+### Contact Email
+📫 Email: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
  
- 
-
-<p>
-  
-</p>
-
 
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=dark" width="350"></a>
