@@ -1,5 +1,5 @@
 
-# Hi friends, Welcome to my Github! 👋 
+# Hi friends! 👋  Welcome to my Github.
 
 ### Languages and Frameworks in focus.
 <p>
