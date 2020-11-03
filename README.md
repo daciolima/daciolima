@@ -41,7 +41,7 @@ I am constantly learning in the world of programming, especially about people, w
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=white" width="450" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima" alt="daciolima" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima" alt="daciolima" />
 
 </p>
 
