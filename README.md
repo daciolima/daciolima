@@ -1,6 +1,6 @@
 
 # Hi friends! 👋  Welcome to my Github space.
-I am constantly learning in the world of programming, especially about people, without a good relationship there is no harmony and with that there is no exchange of information.
+I am constantly learning in the world of programming, especially about people, without a good relationship there is no harmony and with that there is no exchange of information. This is also my 
 
 ### In focus.
 <p>
@@ -42,6 +42,11 @@ I am constantly learning in the world of programming, especially about people, w
 <img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=white" width="450" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima" alt="daciolima" /> -->
+<h5>Also visit my 
+<a href="https://gist.github.com/daciolima">
+      <img src="https://img.shields.io/badge/Gist-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+</a>
+</h5>
 </p>
 
 ### My workspace specs
