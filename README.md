@@ -1,6 +1,6 @@
 
 # Hi friends! 👋  Welcome to my Github space.
-I am constantly learning in the world of programming. I love my family. With hobby I produce House Music.
+I am constantly learning in the world of programming, especially about people, without a good relationship there is no harmony and with that there is no exchange of information.
 
 ### In focus.
 <p>
