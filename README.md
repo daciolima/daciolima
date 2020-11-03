@@ -34,17 +34,12 @@
 ### Summary of Commits
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima&layout=compact)](https://github.com/daciolima/github-readme-stats)
 
-<!-- <p align='center'>
+<p align='center'>
   💻 My workspace specs<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/apple-macbook%20pro%202012-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%20-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
  </p> -->
-
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
-<!--
 
 
 <details>
