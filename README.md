@@ -23,16 +23,17 @@
   <a href="https://instagram.com/daciolimamusic" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
+  📫 Email: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
  
 </p>
 
   
-  <img src="https://img.shields.io/badge/Email: contato.dacio@gmail.com%20%E2%86%92.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
  
  
 
 <p>
-  📫 Email: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
+  
 </p>
 
 
