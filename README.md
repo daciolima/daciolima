@@ -27,20 +27,19 @@
   
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=daciolima" alt="daciolima" /></p>
-
-
 
 <!-- <p align='center'>
   
 </p> -->
 
 ### Summary
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=daciolima" alt="daciolima" /></p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima&layout=compact)](https://github.com/daciolima/github-readme-stats)-->
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=daciolima&show_icons=true&count_private=true&theme=white" width="450" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima" alt="daciolima" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima" alt="daciolima" /> -->
 </p>
 
 ### My workspace specs
