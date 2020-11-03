@@ -30,7 +30,7 @@
 </p>
 
 ### Contact Email
-<img src="https://img.shields.io/badge/contato.dacio@gmail.com%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/contato.dacio@gmail.com%20-%2314354C.svg?&style=for-the-badge"/>
  
 
 <!-- <p align='center'>
