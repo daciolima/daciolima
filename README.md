@@ -38,7 +38,7 @@
 
 ### My workspace specs
 <p>
-  <img src="https://img.shields.io/badge/apple-macbook%20pro%202012-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/apple-macbook%20pro%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%20-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
