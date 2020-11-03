@@ -3,6 +3,7 @@ Hello friends, Welcome! 👋
 
 💻 Python/Django/DRF, DataScience, Javascript/React.
 
-📫 Contact: [https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white]
+📫 Contact: [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ⚡ Hobby: Music and Chess.
