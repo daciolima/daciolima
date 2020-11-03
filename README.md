@@ -17,22 +17,22 @@
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/daciolima/" target="blank">
+  <a href="https://www.linkedin.com/in/daciolima/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/daciolimamusic" target="blank">
+  <a href="https://instagram.com/daciolimamusic" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
  
 </p>
 
   <a href="mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Email%20-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>
  
 
 <p>
-  📫  <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
+  📫 Email: <a href='mailto:contato.dacio@gmail.com'>contato.dacio@gmail.com</a>
 </p>
 
 
