@@ -1,5 +1,5 @@
 
-# Hi friends! 👋  Welcome to my Github.
+# Hi friends! 👋  Welcome to my Github space.
 
 ### Languages and Frameworks in focus.
 <p>
@@ -12,7 +12,7 @@
 </p>
 
 
-### Contacts
+### Contact
 <p>
   
   <a href='mailto:contato.dacio@gmail.com'>
@@ -27,6 +27,11 @@
   
 </p>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=daciolima" alt="daciolima" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima" alt="daciolima" />
+</p>
 
 <!-- <p align='center'>
   
