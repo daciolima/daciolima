@@ -45,7 +45,9 @@ I am constantly learning in the world of programming, especially about people, w
 </p>
 -->
 
+<!--
 ### My workspace specs
+-->
 <!--
 <p>
   <img src="https://img.shields.io/badge/apple-macbook%20pro%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
