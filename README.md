@@ -1,6 +1,8 @@
 
 # Hi friends! 👋  Welcome to my Github space.
-I am constantly learning in the world of programming, especially about people, without a good relationship there is no harmony and with that there is no exchange of information. This is also my 
+- I am constantly learning in the world of programming.
+- I like people and I seek a good relationship.
+- For targets looking for success we can only achieve if we have a group.
 
 ### In focus.
 <p>
