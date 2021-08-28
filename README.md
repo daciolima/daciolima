@@ -1,12 +1,12 @@
 
 # Olá amigos! 👋  
 ### Bem vindos ao meu espaço.
-*"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. Se quer os dois resultados use Metodologia Ágil"* 😉 👍🏼
+**"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. Se quer os dois resultados use Metodologia Ágil"** (Proverbio africano refatorado)😉 👍🏼
 
 #
 #
 
-"Ser desenvolvedor é ter capacidade de solucionar problemas. Ter uma boa relação interpessoal, boa comunicação e compreender dores é fundamental para a solução."
+"Ser um bom solucionador de problemas não significa entender de tudo, mas saber onde encontrar as respostas. Ter habilidade técnica, uma boa relação interpessoal, boa comunicação e compreender as dores de outros é fundamental para a solução do problema. Tudo giram em todo de relacionamento."
 
 #
 #
