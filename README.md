@@ -1,10 +1,9 @@
 
-# Hi friends! 👋  Welcome to my Github space.
-- I am constantly learning in the world of programming.
-- I like people and I seek a good relationship.
-- For targets looking for success we can only achieve if we have a group.
+# Olá amigos! 👋  Bem vindos ao meu espaço.
+- *"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo." Provérbio africano.*
 
-### In focus.
+
+### Foco.
 <p>
    <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
