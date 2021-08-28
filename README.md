@@ -20,8 +20,8 @@
 #
 
 ### Formação
-- 🎓 Graduado em Desenvolvimento de Sistemas para Internet.
-- 🎓 Formação Técnica em Manutenção de Computadores e Suporte ao Usuário.
+🎓  Graduado em Desenvolvimento de Sistemas para Internet.
+🎓  Formação Técnica em Manutenção de Computadores e Suporte ao Usuário.
 
 #
 #
