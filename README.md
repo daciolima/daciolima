@@ -3,7 +3,8 @@
 # Bem vindos ao meu espaço.
 *"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. Se quer os dois resultados use Metodologia Ágil"* 😉 👍🏼
 
-
+#
+#
 
 <p>
    <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,16 +16,22 @@
    <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
 
-### Formações
-- 🎓 Graduado em Desenvolvimento de Sistemas para Internet.
-- 🎓 Formação Técnica em Suporte ao Usuário.
+#
+#
 
+### Formação
+- 🎓 Graduado em Desenvolvimento de Sistemas para Internet.
+- 🎓 Formação Técnica em Manutenção de Computadores e Suporte ao Usuário.
+
+#
+#
 ### Habilidades
 - [x] Python | Django | Flask
 - [x] JavaScript | ReactJS
 - [x] Dart | Flutter
 - [x] Linux | Windows | Mac OS 
 - [x] Scrum
+
 
 
 
@@ -49,7 +56,7 @@
 </p>
 
 
-### Summary
+
 
 
    ![](https://komarev.com/ghpvc/?username=daciolima&style=flat-square)
