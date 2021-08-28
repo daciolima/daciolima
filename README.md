@@ -4,18 +4,16 @@
 **"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. Se quer os dois resultados use Metodologia Ágil"** (Proverbio africano refatorado)😉 👍🏼
 
 #
-#
 
 "Ser um bom solucionador de problemas não significa entender de tudo, mas saber onde encontrar as respostas. Ter habilidade técnica, uma boa relação interpessoal, boa comunicação e compreender as dores de outros é fundamental para a solução do problema. Tudo giram em todo de relacionamento."
 
 #
-#
+
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daciolima/)](https://www.linkedin.com/in/daciolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dacio@gmail.com)](mailto:contato.dacio@gmail.com/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583998255100&text=Olá!)](https://api.whatsapp.com/send?phone=5583998255100&text=Olá!)
 
-#
 #
 
 ### Foco
@@ -30,13 +28,11 @@
 </p>
 
 #
-#
 
 ### Formação
 - 🎓  Graduado em Desenvolvimento de Sistemas para Internet.
 - 🎓  Formação Técnica em Manutenção de Computadores e Suporte ao Usuário.
 
-#
 #
 
 ### Habilidades
@@ -62,7 +58,6 @@
   
 </p>-->
 
-#
 #
 
 ### Outros
