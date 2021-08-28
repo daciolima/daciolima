@@ -40,7 +40,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daciolima/)](https://www.linkedin.com/in/daciolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dacio@gmail.com)](mailto:contato.dacio@gmail.com/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583998255100&text=Olá!)](https://api.whatsapp.com/send?phone=5583998255100&text=Olá!)
-<!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/contato.dacio)](https://t.me/contato.dacio) -->
+<!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/contato.dacio)](https://t.me/contato.dacio) 
 <p>
   
   <a href='mailto:contato.dacio@gmail.com'>
@@ -53,12 +53,12 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
   
-</p>
+</p>-->
 
 #
 #
 
-### Outras
+### Outros
 
    ![](https://komarev.com/ghpvc/?username=daciolima&style=flat-square)
    <a href="https://gist.github.com/daciolima">
