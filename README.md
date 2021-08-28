@@ -5,6 +5,11 @@
 
 #
 #
+
+"Ser desenvolvedor é ter capacidade de solucionar problemas. Ter uma boa relação interpessoal, boa comunicação e compreender dores é fundamental para a solução."
+
+#
+#
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daciolima/)](https://www.linkedin.com/in/daciolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dacio@gmail.com)](mailto:contato.dacio@gmail.com/)
