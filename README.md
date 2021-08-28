@@ -42,6 +42,15 @@
 - [x] Linux | Windows | Mac OS 
 - [x] Scrum
 
+#
+
+### Outros
+
+   ![](https://komarev.com/ghpvc/?username=daciolima&style=flat-square)
+   <a href="https://gist.github.com/daciolima">
+      <img src="https://img.shields.io/badge/My Gist-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+   </a>
+   
 
 <!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/contato.dacio)](https://t.me/contato.dacio) 
 <p>
@@ -58,14 +67,6 @@
   
 </p>-->
 
-#
-
-### Outros
-
-   ![](https://komarev.com/ghpvc/?username=daciolima&style=flat-square)
-   <a href="https://gist.github.com/daciolima">
-      <img src="https://img.shields.io/badge/My Gist-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white" />        
-   </a>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daciolima&layout=compact)](https://github.com/daciolima/github-readme-stats)-->
 <!--
 <p>
