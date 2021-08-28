@@ -29,12 +29,6 @@
 
 #
 
-### Formação
-- 🎓  Graduado em Desenvolvimento de Sistemas para Internet.
-- 🎓  Formação Técnica em Manutenção de Computadores e Suporte ao Usuário.
-
-#
-
 ### Habilidades
 - [x] Relação interpessoal
 - [x] Python | Django | Flask
@@ -42,6 +36,12 @@
 - [x] Dart | Flutter
 - [x] Linux | Windows | Mac OS 
 - [x] Scrum
+
+#
+
+### Formação
+- 🎓  Graduado em Desenvolvimento de Sistemas para Internet.
+- 🎓  Formação Técnica em Manutenção de Computadores e Suporte ao Usuário.
 
 #
 
