@@ -36,6 +36,7 @@
 #
 
 ### Habilidades
+- [x] Relação interpessoal
 - [x] Python | Django | Flask
 - [x] JavaScript | ReactJS
 - [x] Dart | Flutter
