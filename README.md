@@ -1,6 +1,7 @@
 
 # Olá amigos! 👋  Bem vindos ao meu espaço.
-- *"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo." Provérbio africano.*
+*"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo."* 
+Provérbio africano.
 
 
 ### Foco.
