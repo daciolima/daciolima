@@ -1,7 +1,10 @@
 
-# Olá amigos! 👋  Bem vindos ao meu espaço.
-*"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo."* 
-Provérbio africano.
+# Olá amigos! 👋  
+# Bem vindos ao meu espaço.
+*"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. Se quer os dois resultado use Metodologia Ágil"* 😉 👍🏼
+
+
+
 
 
 ### Foco.
