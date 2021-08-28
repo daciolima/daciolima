@@ -5,9 +5,6 @@
 
 
 
-
-
-### Foco.
 <p>
    <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
@@ -17,6 +14,18 @@
    <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
    <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
+
+### Formações
+- 🎓 Graduado em Desenvolvimento de Sistemas para Internet.
+- 🎓 Formação Técnica em Suporte ao Usuário.
+
+### Habilidades
+- [x] Python | Django | Flask
+- [x] JavaScript | ReactJS
+- [x] Dart | Flutter
+- [x] Linux | Windows | Mac OS 
+- [x] Scrum
+
 
 
 ### Contact
