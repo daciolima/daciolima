@@ -5,7 +5,7 @@
 
 #
 
-"Ser um bom solucionador de problemas não significa entender de tudo, mas saber onde encontrar as respostas. Ter habilidade técnica, uma boa relação interpessoal, boa comunicação e compreender as dores de outros é fundamental para a solução do problema. Tudo giram em todo de relacionamento."
+"Ser um bom solucionador de problemas não significa entender de tudo, mas saber onde encontrar as respostas. Ter habilidade técnica, uma boa relação interpessoal, boa comunicação e empatia é fundamental para a solução do problema. Tudo giram em todo de relacionamento."
 
 #
 
