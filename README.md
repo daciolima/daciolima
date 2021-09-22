@@ -32,7 +32,7 @@
 
 ### Habilidades
 - [x] Relação interpessoal
-- [x] Python | Django | Flask
+- [x] Python | Django | Flask | FastAPI
 - [x] JavaScript | ReactJS
 - [x] Dart | Flutter
 - [x] Linux | Windows | Mac OS 
