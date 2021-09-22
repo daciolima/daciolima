@@ -31,7 +31,6 @@
 #
 
 ### Habilidades
-- [x] Relação interpessoal
 - [x] Python | Django | Flask | FastAPI
 - [x] JavaScript | ReactJS
 - [x] Dart | Flutter
