@@ -29,12 +29,22 @@
 #
 
 ### Habilidades
-- [x] Python | Django | Flask | FastAPI
-- [x] JavaScript | ReactJS
-- [x] Linux | Windows | Mac OS 
-- [x] Scrum
+**Soft Skill**
+- [x] Facilidade de Comunicação.
+- [x] Foco em resultados com qualidade.
+- [x] Empatia e trabalho em grupo.
+- [x] Experiência trabalhando com Kanban e Scrum.
+
+**Hard Skill**
+- [x] Experiência com Linguagem de programação Python.
+- [x] Desenvolvimento de APIs usando Django/DRF e FastApi.
+- [x] Desenvolvimento de frontend usando Javascript com Vue.js.
+- [x] Linguagem SQL com bancos Mysql e Postgres.
+- [x] Versionamento Git.
+- [x] Deploy de aplicação em VPS e PaaS.
 
 #
+
 <!-- 
    ##<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
    ##<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
