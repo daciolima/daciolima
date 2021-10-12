@@ -1,11 +1,10 @@
 
 # Olá amigos! 👋  
 ### Bem vindos ao meu Github.
-**"Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. Se quer os dois resultados use Metodologia Ágil."** - (Proverbio africano refatorado). 😁 👍🏼
 
 #
 
-"Ser um bom solucionador de problemas não significa entender de tudo, mas saber onde encontrar as respostas. Ter habilidade técnica, uma boa relação interpessoal, boa comunicação e empatia é fundamental para a solução do problema. Tudo giram em todo de relacionamento."
+"Ser um bom solucionador de problemas não significa entender de tudo, mas saber onde encontrar as respostas. Ter habilidade técnica, uma boa relação interpessoal, boa comunicação e empatia é fundamental para a construção de uma solução. Tudo giram em todo de relacionamento."
 
 #
 
