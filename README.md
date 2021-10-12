@@ -52,6 +52,7 @@
 -->
 
 ### Formação
+- 🎓  Pós Graduação em BI com Big Data - Em andamento.
 - 🎓  Graduado em Desenvolvimento de Sistemas para Internet.
 - 🎓  Formação Técnica em Manutenção de Computadores e Suporte ao Usuário.
 
