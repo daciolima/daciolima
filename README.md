@@ -4,10 +4,6 @@
 
 #
 
-"Ser um bom solucionador de problemas não significa entender de tudo, mas saber onde encontrar as respostas. Ter habilidade técnica, uma boa relação interpessoal, boa comunicação e empatia é fundamental para a construção de uma solução. Tudo giram em todo de relacionamento."
-
-#
-
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daciolima/)](https://www.linkedin.com/in/daciolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dacio@gmail.com)](mailto:contato.dacio@gmail.com/)
