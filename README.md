@@ -32,8 +32,8 @@
 
 **Hard Skill**
 - [x] Experiência com Linguagem de programação Python.
-- [x] Desenvolvimento de APIs usando Django/DRF e FastApi.
-- [x] Desenvolvimento de frontend usando Javascript com ReactJS.
+- [x] Backend com Django/DRF e FastApi.
+- [x] Frontend com ReactJS.
 - [x] Linguagem SQL com Postgres.
 - [x] Versionamento Git.
 - [x] Deploy de aplicação em VPS e PaaS.
