@@ -25,7 +25,6 @@
 
 
 
-### Outros
 
    ![](https://komarev.com/ghpvc/?username=daciolima&style=flat-square)
    
