@@ -20,7 +20,7 @@
 
 #
 
-### Framework e Ambientes:
+### Frameworks:
 <p>
    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)"/>
